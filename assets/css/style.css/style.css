@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 45px;
+    letter-spacing: 1em;
+    
+}
+
+h2 {
+    color: purple;
+    font-size: 30px;
+}
+
+h3 {
+    color: khaki;
+    font-size: 25px;
+}
+
+.content {
+    margin: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: solid 5px white;
+}
