@@ -28,3 +28,6 @@ h3 {
     margin-right: 400px;
     border: solid 5px white;
 }
+#lettersguessed {
+    display: inline-block;
+}
